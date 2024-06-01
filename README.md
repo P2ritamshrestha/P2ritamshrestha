@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on online food management project on web app<br><br>🤝 I’m looking for Backend developer job<br>🌱 I’m currently learning PYTHON,DJANGO,JAVA<br>💬 Ask me about HTML&CSS, Python,Django, JAVA
+ 🔭 I’m currently working on online food management project on web app<br><br>🤝 I’m looking for Backend developer job<br>🌱 I’m currently learning JAVA String boot<br>💬 Ask me about HTML&CSS, JAVA
 
 
 # 💻 Tech Stack:
